@@ -1,0 +1,20 @@
+.total2{
+    position: relative;
+    top:100px;
+    width: 50%;
+    margin:0 auto;
+    min-width: 900px;
+}
+.author2{
+    position: relative;
+    width:25%;
+    height: 200px;
+    float:left;
+    right:-73%;
+    top:-440px;
+}
+.body2{
+    position: absolute;
+    top: 370px;
+    width: 68%;
+}

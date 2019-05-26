@@ -1,0 +1,109 @@
+.QQlogo2{
+    display: block;
+    height: 50px;
+    line-height: 40px;
+}
+.Qlogo1{
+    display: none;
+    height: 50px;
+}
+.QQnav{
+    background-color: rgba(28,35,39,0.8);
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    top:0px;
+    color: white;
+    min-width: 1790px;
+}
+.Qnav2{
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    top:50px;
+    color: white;
+    line-height: 45px;
+    text-align: center;
+    transition: all 0s;
+    display: none;
+}
+.Qnavitem1{
+    position: relative;
+    margin-left: 68%;
+    float:left;
+    font-size: 13px;
+    height: 50px;
+    width:100px;
+    line-height: 45px;
+    text-align: center;
+    top:-50px;
+}
+.Qnavitem{
+    top:-50px;
+    position: relative;
+    margin-left: 10px;
+    float:left;
+    font-size: 13px;
+    height: 50px;
+    width:100px;
+    line-height: 45px;
+    text-align: center;
+}
+.Qnavitem2{
+    font-size: 20px;
+    height: 80px;
+    width:20%;
+    line-height: 85px;
+    text-align: center;
+    float:left;
+    margin-left: 0px;
+    height: 100px;
+    background-color: rgba(28,35,39,0.7);
+}
+.Qnavitem3{
+    font-size: 20px;
+    height: 100px;
+    width:20%;
+    line-height: 85px;
+    text-align: center;
+    margin-left: 0px;
+    background-color: rgba(28,35,39,0.7);
+    float:left;
+}
+.Qnavitemtext{
+  text-align: center;
+  line-height: 20px;
+  text-decoration: none;
+  color: white
+}
+.total{
+    position: relative;
+    top:100px;
+    width: 75%;
+    margin:0 auto;
+    padding: 1%;
+    min-width: 900px;
+}
+.head{
+    background-color: white;
+    position: relative;
+    width: 70%;
+    height: 100px;
+    padding: 0.5%;
+}
+.author{
+    position: relative;
+    width:25%;
+    height: 200px;
+    float:left;
+    right:-73%;
+    top:-100px;
+}
+.body{
+    background-color: rgb(255,255,255);
+    position: absolute;
+    top: 150px;
+    width: 68%;
+    padding: 20px;
+}
